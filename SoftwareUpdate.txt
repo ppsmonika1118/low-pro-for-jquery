@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
