@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
