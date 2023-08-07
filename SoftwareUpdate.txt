@@ -1,1 +1,1 @@
-Fix TFLite INT8 for OBB (#7989)
+Add visuals in guides/distance-calculation.md (#7876)
