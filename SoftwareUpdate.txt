@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
