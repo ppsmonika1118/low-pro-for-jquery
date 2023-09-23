@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Replace onnx2tf usage from CLI to Python (#8429)
