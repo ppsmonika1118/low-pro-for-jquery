@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+Update the heatmap module code + docs (#7045)
