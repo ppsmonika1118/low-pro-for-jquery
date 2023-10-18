@@ -1,1 +1,1 @@
-Fix an issue with flatbuffer version for Raspberry Pi (#8311)
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
