@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Clean up unused imgsz (#7771)
