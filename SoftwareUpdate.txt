@@ -1,1 +1,1 @@
-ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
