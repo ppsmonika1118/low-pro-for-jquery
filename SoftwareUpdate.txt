@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+fix yolo classify model loading error (#9196)
