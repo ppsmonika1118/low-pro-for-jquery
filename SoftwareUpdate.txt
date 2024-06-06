@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
