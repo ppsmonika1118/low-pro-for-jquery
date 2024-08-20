@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Compare plt.get_backend() in lowercase (#8409)
