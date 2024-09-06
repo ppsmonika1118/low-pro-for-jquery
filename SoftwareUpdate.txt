@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
