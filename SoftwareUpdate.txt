@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Move Explorer tests to scheduled CI (#8305)
